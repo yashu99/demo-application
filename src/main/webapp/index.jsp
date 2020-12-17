@@ -7,11 +7,11 @@
 <title>Home Page</title>
 </head>
 <body>
-	<h1>Name : Namish Navlakha</h1>
-	<h2>Email : 12bcah25@gmail.com</h2>
-	<h3>Mobile : 9904224004</h3>
-	<h4>Qualification : MCA</h4>
-	<h5>Passing Year : 2018</h5>
-	<h6>Address : Shivaji Nagar, Gujarat</h6>
+	<h1>Name : Yaswanth Pulavarthi</h1>
+	<h2>Email : yaswanthkmr22@gmail.com</h2>
+	<h3>Mobile : 9494769194</h3>
+	<h4>Qualification : BTech</h4>
+	<h5>Passing Year : 2020</h5>
+	<h6>Address : Marteru, AndhraPradesh</h6>
 </body>
 </html>
